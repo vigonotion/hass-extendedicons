@@ -17,6 +17,6 @@
     "webpack-cli": "^3.3.11"
   },
   "dependencies": {
-    "extended-icons": "^1.0.0"
+    "extended-icons": "^1.1.0"
   }
 }
