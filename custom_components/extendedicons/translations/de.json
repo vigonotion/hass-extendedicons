@@ -1,0 +1,8 @@
+{
+  "config": {
+    "title": "Extended Icons",
+    "abort": {
+      "single_instance_allowed": "Es ist nur eine Instanz von Extended Icons erlaubt."
+    }
+  }
+}

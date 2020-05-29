@@ -1,0 +1,22 @@
+{
+  "name": "extendedicons",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack --watch --mode=development",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tom Schneider",
+  "license": "MIT",
+  "devDependencies": {
+    "raw-loader": "^4.0.1",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {
+    "extended-icons": "^1.0.0"
+  }
+}
